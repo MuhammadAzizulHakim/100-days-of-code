@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Wednesday, April 6, 2022
+## Day 1: Wednesday, April 6, 2022
 
 **Today's Progress**: Spent time committing all my code for all my Technical Blogging/Technical Writing portfolio (started from 2021) to GitHub, and writing them proper descriptions.
 
