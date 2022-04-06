@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Wednesday, April 6, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spent time committing all my code for all my Technical Blogging/Technical Writing portfolio (started from 2021) to GitHub, and writing them proper descriptions.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently built up a new habit: Try to properly commit my work to GitHub, as (literally) hundreds of them are piled up unorganized on my hard drive. I think spending my first day of #100DaysOfCode organizing them would be a good idea, and might help me find new ideas.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Articles for blogs.embarcadero.com](https://github.com/MuhammadAzizulHakim/embarcaderoBlog-repo)
+2. [Articles for pythongui.org](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_Python4Delphi-Python-Libraries)
+3. [Articles for blog.apilayer.com](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
+4. [DelphiVCL Python Library Docs](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_DelphiVCL4Python-Docs)
