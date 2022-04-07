@@ -16,4 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 6, Wednesday, 2022].
 3. [Articles for blog.apilayer.com](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
 4. [DelphiVCL Python Library Docs](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_DelphiVCL4Python-Docs)
 
-### R1D2
+### R1D2: Thursday, April 7, 2022
+
+**Today's Progress:** Revisiting Python's Iteration, and update my old blog article about it (it's in Indonesian).
+
+**Thoughts:** 
+
+**Link(s) to work:**
