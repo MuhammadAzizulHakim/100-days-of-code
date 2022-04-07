@@ -11,3 +11,11 @@
 2. [Articles for pythongui.org](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_Python4Delphi-Python-Libraries)
 3. [Articles for blog.apilayer.com](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
 4. [DelphiVCL Python Library Docs](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_DelphiVCL4Python-Docs)
+
+## Day 2: Thursday, April 7, 2022
+
+**Today's Progress:** Revisiting Python's Iteration, and update my old blog article about it (it's in Indonesian).
+
+**Thoughts:** 
+
+**Link(s) to work:**
