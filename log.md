@@ -2,11 +2,11 @@
 
 ## Day 1: Wednesday, April 6, 2022
 
-**Today's Progress**: Spent time committing all my code for all my Technical Blogging/Technical Writing portfolio (started from 2021) to GitHub, and writing them proper descriptions.
+**Today's Progress:** Spent time committing all my code for all my Technical Blogging/Technical Writing portfolio (started from 2021) to GitHub, and writing them proper descriptions.
 
-**Thoughts**: I've recently built up a new habit: Try to properly commit my work to GitHub, as (literally) hundreds of them are piled up unorganized on my hard drive. I think spending my first day of #100DaysOfCode organizing them would be a good idea, and might help me find new ideas.
+**Thoughts:** I've recently built up a new habit: Try to properly commit my work to GitHub, as (literally) hundreds of them are piled up unorganized on my hard drive. I think spending my first day of #100DaysOfCode organizing them would be a good idea, and might help me find new ideas.
 
-**Link(s) to work**:
+**Link(s) to work:**
 1. [Articles for blogs.embarcadero.com](https://github.com/MuhammadAzizulHakim/embarcaderoBlog-repo)
 2. [Articles for pythongui.org](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_Python4Delphi-Python-Libraries)
 3. [Articles for blog.apilayer.com](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
