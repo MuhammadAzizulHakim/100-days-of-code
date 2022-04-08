@@ -22,4 +22,4 @@ The log of my #100DaysOfCode challenge. Started on [April 6, Wednesday, 2022].
 
 **Thoughts:** 
 
-**Link(s) to work:**
+**Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
