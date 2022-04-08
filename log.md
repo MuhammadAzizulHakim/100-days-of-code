@@ -16,6 +16,6 @@
 
 **Today's Progress:** Revisiting Python's Iteration, and update my old blog article about it (it's in Indonesian).
 
-**Thoughts:** 
+**Thoughts:** I've written it poorly in 2018, so I decided to rewrite it and also relearn Python iterations. 
 
-**Link(s) to work:**
+**Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
