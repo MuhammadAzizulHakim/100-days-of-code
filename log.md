@@ -19,3 +19,11 @@
 **Thoughts:** I've written it poorly in 2018, so I decided to rewrite it and also relearn Python iterations. 
 
 **Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
+
+## Day 3: Friday, April 8, 2022
+
+**Today's Progress:** Create a custom Python4Delphi GUI for scikit-learn, specially designed for running 10 clustering algorithms.
+
+**Thoughts:** It is interesting for me to create a windows app (in .exe file format) that could operate unsupervised learning with scikit-learn instantly, without any IDE or Jupyter Notebook. 
+
+**Link(s) to work:** []()
