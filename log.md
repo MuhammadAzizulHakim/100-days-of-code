@@ -27,3 +27,21 @@
 **Thoughts:** It is interesting for me to create a windows app (in .exe file format) that could operate unsupervised learning with scikit-learn instantly, without any IDE or Jupyter Notebook. 
 
 **Link(s) to work:** [ScikitLearn4D Demo](https://github.com/MuhammadAzizulHakim/embarcaderoBlog-repo/tree/main/Article20%20-%20ScikitLearn4D%20Demo)
+
+## Day 4: Saturday, April 9, 2022
+
+**Today's Progress:** Researching the strengths and weaknesses of these 10 Clustering Algorithms:
+1. Affinity Propagation
+2. Agglomerative Clustering
+3. BIRCH
+4. DBSCAN
+5. K-Means
+6. Mini-Batch K-Means
+7. Mean Shift
+8. OPTICS
+9. Spectral Clustering
+10. Gaussian Mixture Model
+
+**Thoughts:** This is the continuation of the third day. I am in progress writing a blog post about implementing clustering algorithms inside ScikitLearn4Delphi GUI.
+
+**Link(s) to work:** Coming soon, will be published on https://blogs.embarcadero.com/author/hmazizul/
