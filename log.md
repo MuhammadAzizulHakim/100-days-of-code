@@ -45,3 +45,16 @@
 **Thoughts:** This is the continuation of the third day. I am in progress writing a blog post about implementing clustering algorithms inside ScikitLearn4Delphi GUI.
 
 **Link(s) to work:** Coming soon, will be published on https://blogs.embarcadero.com/author/hmazizul/
+
+## Day 5: Sunday, April 10, 2022
+
+**Today's Progress:** Continuing the progress in Day 1/100.
+
+**Thoughts:** It's (literally) hundreds of articles, so need more time, it must.
+
+**Link(s) to work:**
+
+1. [Repository for blogs.embarcadero.com articles](https://github.com/MuhammadAzizulHakim/embarcaderoBlog-repo)
+2. [Repository for pythongui.org articles](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_Python4Delphi-Python-Libraries)
+3. [Repository for blog.apilayer.com articles](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
+4. [Repository for DelphiVCL Python Library Docs](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_DelphiVCL4Python-Docs)
