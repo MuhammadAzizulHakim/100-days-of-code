@@ -58,3 +58,11 @@
 2. [Repository for pythongui.org articles](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_Python4Delphi-Python-Libraries)
 3. [Repository for blog.apilayer.com articles](https://github.com/MuhammadAzizulHakim/apilayerBlog-repo)
 4. [Repository for DelphiVCL Python Library Docs](https://github.com/MuhammadAzizulHakim/pythongui.orgRepo_DelphiVCL4Python-Docs)
+
+## Day 6: Monday, April 11, 2022
+
+**Today's Progress:** Continuing the progress on Day 2/100.
+
+**Thoughts:** Today I rewrite Section 2. 
+
+**Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
