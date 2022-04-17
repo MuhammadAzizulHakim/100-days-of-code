@@ -74,3 +74,11 @@
 **Thoughts:** It's a new thing for me, very interesting to automatically sniff the cause that makes our app slow.
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+## Day 8: Wednesday, April 13, 2022
+
+**Today's Progress:** Find a way to export the cProfile output into different formats. I use the basic #Scrapy script for testing.
+
+**Thoughts:** .dump for further processing, .txt for the sake of readability.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
