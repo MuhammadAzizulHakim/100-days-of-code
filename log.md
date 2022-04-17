@@ -82,3 +82,11 @@
 **Thoughts:** .dump for further processing, .txt for the sake of readability.
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+## Day 9: Thursday, April 14, 2022
+
+**Today's Progress:** Visualize the cProfile output with snakeviz.
+
+**Thoughts:** I love how the snakeviz visualizes our code profiling results!
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
