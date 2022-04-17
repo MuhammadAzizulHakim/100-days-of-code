@@ -77,7 +77,7 @@
 
 ## Day 8: Wednesday, April 13, 2022
 
-**Today's Progress:** Find a way to export the cProfile output into different formats. I use the basic #Scrapy script for testing.
+**Today's Progress:** Find a way to export the cProfile output into different formats. I use the basic Scrapy script for testing.
 
 **Thoughts:** .dump for further processing, .txt for the sake of readability.
 
