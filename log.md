@@ -66,3 +66,11 @@
 **Thoughts:** Today I rewrite Section 2. 
 
 **Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
+
+## Day 7: Tuesday, April 12, 2022
+
+**Today's Progress:** Learn to implement built-in Python profiling tools (cProfile)
+
+**Thoughts:** It's a new thing for me, very interesting to automatically sniff the cause that makes our app slow.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
