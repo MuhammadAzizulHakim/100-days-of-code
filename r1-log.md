@@ -70,3 +70,35 @@ The log of my #100DaysOfCode challenge. Started on [April 6, Wednesday, 2022].
 **Thoughts:** Today I rewrite Section 2. 
 
 **Link(s) to work:** [Python101: Iterasi](https://hkalabs.com/blog/python101-mengenal-iterasi-dengan-python/)
+
+### R1D7: Tuesday, April 12, 2022
+
+**Today's Progress:** Learn to implement built-in Python profiling tools (cProfile)
+
+**Thoughts:** It's a new thing for me, very interesting to automatically sniff the cause that makes our app slow.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+### R1D8: Wednesday, April 13, 2022
+
+**Today's Progress:** Find a way to export the cProfile output into different formats. I use the basic Scrapy script for testing.
+
+**Thoughts:** .dump for further processing, .txt for the sake of readability.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+### R1D9: Thursday, April 14, 2022
+
+**Today's Progress:** Visualize the cProfile output with snakeviz.
+
+**Thoughts:** I love how the snakeviz visualizes our code profiling results!
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+### R1D10: Friday, April 15, 2022
+
+**Today's Progress:** Implement the cProfile into Machine Learning scripts.
+
+**Thoughts:** I test the cProfile into the ols linear regression and hillclimb algorithm scripts.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
