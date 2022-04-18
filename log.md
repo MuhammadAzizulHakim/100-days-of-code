@@ -90,3 +90,11 @@
 **Thoughts:** I love how the snakeviz visualizes our code profiling results!
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+## Day 10: Friday, April 15, 2022
+
+**Today's Progress:** Implement the cProfile into Machine Learning scripts.
+
+**Thoughts:** I test the cProfile into the ols linear regression and hillclimb algorithm scripts.
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
