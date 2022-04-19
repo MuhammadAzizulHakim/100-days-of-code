@@ -98,3 +98,11 @@
 **Thoughts:** I test the cProfile into the ols linear regression and hillclimb algorithm scripts.
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+## Day 11: Saturday, April 16, 2022
+
+**Today's Progress:** Implement the snakeviz into Machine Learning scripts.
+
+**Thoughts:** I test the cProfile into the OLS linear regression and hillclimb algorithm scripts, and I love the results!
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
