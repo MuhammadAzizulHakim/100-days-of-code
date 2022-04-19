@@ -106,3 +106,14 @@
 **Thoughts:** I test the cProfile into the OLS linear regression and hillclimb algorithm scripts, and I love the results!
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+## Day 12: Sunday, April 17, 2022
+
+**Today's Progress:** Do minor revisions to my old scikit-learn blog posts (articles in Indonesian).
+
+**Thoughts:** All the articles are written in 2018, but I don't have a dedicated time to revise them before.
+
+**Link(s) to work:**
+1. [Berkenalan dengan scikit-learn (Part 1) – Preparations](https://hkalabs.com/blog/bedah-library-scikit-learn-part-1-preparations/)
+2. [Berkenalan dengan scikit-learn (Part 2) – datasets.make_: Membuat Sampel Data untuk Latihan Analisis Data](https://hkalabs.com/blog/bedah-library-scikit-learn-part-2-membuat-sampel-data-untuk-latihan-analisis-data/)
+3. [Berkenalan dengan scikit-learn (Part 3) – Scaling Data Menjadi Standard Normal](https://hkalabs.com/blog/bedah-library-scikit-learn-part-3-scaling-data-menjadi-standard-normal/)
