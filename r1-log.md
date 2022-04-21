@@ -102,3 +102,33 @@ The log of my #100DaysOfCode challenge. Started on [April 6, Wednesday, 2022].
 **Thoughts:** I test the cProfile into the ols linear regression and hillclimb algorithm scripts.
 
 **Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+### R1D11: Saturday, April 16, 2022
+
+**Today's Progress:** Implement the snakeviz into Machine Learning scripts.
+
+**Thoughts:** I test the cProfile into the OLS linear regression and hillclimb algorithm scripts, and I love the results!
+
+**Link(s) to work:** Coming soon, on https://pythongui.org/author/hmazizul/
+
+### R1D12: Sunday, April 17, 2022
+
+**Today's Progress:** Do minor revisions to my old scikit-learn blog posts (articles in Indonesian).
+
+**Thoughts:** All the articles are written in 2018, but I don't have a dedicated time to revise them before.
+
+**Link(s) to work:**
+1. [Berkenalan dengan scikit-learn (Part 1) – Preparations](https://hkalabs.com/blog/bedah-library-scikit-learn-part-1-preparations/)
+2. [Berkenalan dengan scikit-learn (Part 2) – datasets.make_: Membuat Sampel Data untuk Latihan Analisis Data](https://hkalabs.com/blog/bedah-library-scikit-learn-part-2-membuat-sampel-data-untuk-latihan-analisis-data/)
+3. [Berkenalan dengan scikit-learn (Part 3) – Scaling Data Menjadi Standard Normal](https://hkalabs.com/blog/bedah-library-scikit-learn-part-3-scaling-data-menjadi-standard-normal/)
+
+### R1D13: Monday, April 18, 2022
+
+**Today's Progress:** Do minor revisions to another three of my old scikit-learn blog posts (articles in Indonesian).
+
+**Thoughts:** Is it fun to write and read good & neat documentation.
+
+**Link(s) to work:**
+1. [Berkenalan dengan scikit-learn (Part 4) – Scaling Data dengan MinMaxScaler](https://hkalabs.com/blog/bedah-library-scikit-learn-part-4-scaling-data-minmaxscaler/)
+2. [Berkenalan dengan scikit-learn (Part 5) – Tambahan untuk Scaling dan Imputation Data](https://hkalabs.com/blog/bedah-library-scikit-learn-part-5-tambahan-untuk-scaling-dan-imputation-data/)
+3. [Berkenalan dengan scikit-learn (Part 6) – Membuat Binary Features dengan Metode Thresholding](https://hkalabs.com/blog/bedah-library-scikit-learn-part-6-membuat-binary-features-dengan-metode-thresholding/)
