@@ -117,3 +117,14 @@
 1. [Berkenalan dengan scikit-learn (Part 1) – Preparations](https://hkalabs.com/blog/bedah-library-scikit-learn-part-1-preparations/)
 2. [Berkenalan dengan scikit-learn (Part 2) – datasets.make_: Membuat Sampel Data untuk Latihan Analisis Data](https://hkalabs.com/blog/bedah-library-scikit-learn-part-2-membuat-sampel-data-untuk-latihan-analisis-data/)
 3. [Berkenalan dengan scikit-learn (Part 3) – Scaling Data Menjadi Standard Normal](https://hkalabs.com/blog/bedah-library-scikit-learn-part-3-scaling-data-menjadi-standard-normal/)
+
+## Day 13: Monday, April 18, 2022
+
+**Today's Progress:** Do minor revisions to another three of my old scikit-learn blog posts (articles in Indonesian).
+
+**Thoughts:** Is it fun to write and read good & neat documentation.
+
+**Link(s) to work:**
+1. [Berkenalan dengan scikit-learn (Part 4) – Scaling Data dengan MinMaxScaler](https://hkalabs.com/blog/bedah-library-scikit-learn-part-4-scaling-data-minmaxscaler/)
+2. [Berkenalan dengan scikit-learn (Part 5) – Tambahan untuk Scaling dan Imputation Data](https://hkalabs.com/blog/bedah-library-scikit-learn-part-5-tambahan-untuk-scaling-dan-imputation-data/)
+3. [Berkenalan dengan scikit-learn (Part 6) – Membuat Binary Features dengan Metode Thresholding](https://hkalabs.com/blog/bedah-library-scikit-learn-part-6-membuat-binary-features-dengan-metode-thresholding/)
